@@ -1,0 +1,12 @@
+C:\Users\14\source\repos\CQRSDemo\Read.Context\bin\Debug\net6.0\Read.Context.deps.json
+C:\Users\14\source\repos\CQRSDemo\Read.Context\bin\Debug\net6.0\Read.Context.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Context\bin\Debug\net6.0\Read.Context.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\refint\Read.Context.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\Read.Context.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Context\obj\Debug\net6.0\ref\Read.Context.dll

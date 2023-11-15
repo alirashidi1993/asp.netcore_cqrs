@@ -1,0 +1,846 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo\\CQRSDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj",
+        "projectName": "Application.Contracts",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Services\\Application.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Services\\Application.Services.csproj",
+        "projectName": "Application.Services",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Services\\Application.Services.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj",
+        "projectName": "CQRSDemo.Contracts",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo\\CQRSDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo\\CQRSDemo.csproj",
+        "projectName": "CQRSDemo",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo\\CQRSDemo.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Contracts\\Application.Contracts.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Services\\Application.Services.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Application.Services\\Application.Services.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\Framework.Messaging.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\Framework.Messaging.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Messaging\\Read.Messaging.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Messaging\\Read.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MassTransit.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Domain\\Framework.Domain.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Domain\\Framework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj",
+        "projectName": "Framework.Core",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Domain\\Framework.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Domain\\Framework.Domain.csproj",
+        "projectName": "Framework.Domain",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Domain\\Framework.Domain.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\Framework.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\Framework.Messaging.csproj",
+        "projectName": "Framework.Messaging",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\Framework.Messaging.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj",
+        "projectName": "Framework.Persistence",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+        "projectName": "Infrastructure.Persistence",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Persistence\\Framework.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.24, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Context\\Read.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Context\\Read.Context.csproj",
+        "projectName": "Read.Context",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Context\\Read.Context.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Messaging\\Read.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Messaging\\Read.Messaging.csproj",
+        "projectName": "Read.Messaging",
+        "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Messaging\\Read.Messaging.csproj",
+        "packagesPath": "C:\\Users\\14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj"
+              },
+              "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Context\\Read.Context.csproj": {
+                "projectPath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Read.Context\\Read.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\bin\Debug\net6.0\Read.Queries.deps.json
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\bin\Debug\net6.0\Read.Queries.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\bin\Debug\net6.0\Read.Queries.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\bin\Debug\net6.0\Read.Context.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\bin\Debug\net6.0\Read.Context.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.csproj.CopyComplete
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\refint\Read.Queries.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\Read.Queries.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Queries\obj\Debug\net6.0\ref\Read.Queries.dll

@@ -1,0 +1,12 @@
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\bin\Debug\net6.0\CQRSDemo.Contracts.deps.json
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\bin\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\bin\Debug\net6.0\CQRSDemo.Contracts.pdb
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\refint\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\CQRSDemo.Contracts.pdb
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo.Contracts\obj\Debug\net6.0\ref\CQRSDemo.Contracts.dll

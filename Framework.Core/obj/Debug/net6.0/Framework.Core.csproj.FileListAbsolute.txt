@@ -1,0 +1,15 @@
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\bin\Debug\net6.0\Framework.Core.deps.json
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\bin\Debug\net6.0\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\bin\Debug\net6.0\Framework.Core.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\refint\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\ref\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\bin\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\bin\Debug\net6.0\CQRSDemo.Contracts.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Core\obj\Debug\net6.0\Framework.Core.csproj.CopyComplete

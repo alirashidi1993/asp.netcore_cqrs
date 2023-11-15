@@ -1,0 +1,17 @@
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\Framework.Persistence.deps.json
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\Framework.Persistence.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\Framework.Persistence.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\Framework.Core.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.csproj.CopyComplete
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\refint\Framework.Persistence.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\Framework.Persistence.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\obj\Debug\net6.0\ref\Framework.Persistence.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Persistence\bin\Debug\net6.0\CQRSDemo.Contracts.pdb

@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Domain/1.0.0": {
+        "dependencies": {
+          "CQRSDemo.Contracts": "1.0.0",
+          "Framework.Core": "1.0.0",
+          "Framework.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "CQRSDemo.Contracts/1.0.0": {
+        "runtime": {
+          "CQRSDemo.Contracts.dll": {}
+        }
+      },
+      "Framework.Core/1.0.0": {
+        "dependencies": {
+          "CQRSDemo.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Framework.Core.dll": {}
+        }
+      },
+      "Framework.Domain/1.0.0": {
+        "runtime": {
+          "Framework.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CQRSDemo.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\Framework.Messaging.deps.json
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\Framework.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\Framework.Messaging.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\Framework.Core.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.csproj.CopyComplete
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\refint\Framework.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\Framework.Messaging.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\obj\Debug\net6.0\ref\Framework.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Messaging\bin\Debug\net6.0\CQRSDemo.Contracts.pdb

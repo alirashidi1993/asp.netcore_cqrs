@@ -1,0 +1,12 @@
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\bin\Debug\net6.0\Framework.Domain.deps.json
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\bin\Debug\net6.0\Framework.Domain.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\bin\Debug\net6.0\Framework.Domain.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\refint\Framework.Domain.dll
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\Framework.Domain.pdb
+C:\Users\14\source\repos\CQRSDemo\Framework.Domain\obj\Debug\net6.0\ref\Framework.Domain.dll

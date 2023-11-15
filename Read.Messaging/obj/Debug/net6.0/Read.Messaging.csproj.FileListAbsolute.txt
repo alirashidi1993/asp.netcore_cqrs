@@ -1,0 +1,17 @@
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\Read.Messaging.deps.json
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\Read.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\Read.Messaging.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\Read.Context.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\CQRSDemo.Contracts.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\bin\Debug\net6.0\Read.Context.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.csproj.CopyComplete
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\refint\Read.Messaging.dll
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\Read.Messaging.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.Messaging\obj\Debug\net6.0\ref\Read.Messaging.dll
