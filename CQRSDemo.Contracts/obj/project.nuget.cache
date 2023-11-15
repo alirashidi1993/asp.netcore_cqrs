@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V4PS25R9MDyGDNBQEYPOfdLpZ7SOxl3C4tIgA5TOqV95AEsofTU0u47hKgzMYIxITNvwigZp92B7ArtcitIrKw==",
+  "dgSpecHash": "0a1L+sI9lkPAZkJYzQT479lJZwZUWIIRqcWNQ5QRkDOE9XOw6OEud1fGvYPfpOJwxm0WVnV/DIs+mpSdOookEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\CQRSDemo.Contracts\\CQRSDemo.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\14\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

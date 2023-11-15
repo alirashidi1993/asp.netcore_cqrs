@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1WQS6U+2MWPsADcDa0JvaMpiAQNw/8j07KevT/d9ZmaBeBzAlgOcYb6wN9C5e5iqsVoPt2+mRgCM1eQLbdzvCA==",
+  "dgSpecHash": "qn2JMaQvYemoRI9NUyGGz/s+8F6NQkY1TadU6mL9UM2TC36jI0i2XGNNeXu4JSpDjtQu9Zf+2tmBQMLHNPUIwA==",
   "success": true,
   "projectFilePath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Messaging\\Framework.Messaging.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\14\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\14\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\14\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\14\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\14\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\14\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\14\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

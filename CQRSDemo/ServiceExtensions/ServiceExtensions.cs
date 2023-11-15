@@ -1,5 +1,7 @@
 ﻿using Application.Contracts.Movies;
 using Application.Services.Movies;
+using EventStore.Client;
+using Framework.Core.EventStore;
 using Framework.Core.Messaging;
 using Framework.Core.Persistence;
 using Framework.Messaging;
@@ -58,6 +60,10 @@ namespace CQRSDemo.ServiceExtensions
 
             var mongoConnectionString = configuration.GetConnectionString("MongoDb");
             services.AddSingleton(provider => new ReadDbContext(mongoConnectionString));
+
+            var eventStoreConnectionString = configuration.GetConnectionString("EventStore");
+
+            services.AddEventStoreClient(eventStoreConnectionString);
         }
     }
 }

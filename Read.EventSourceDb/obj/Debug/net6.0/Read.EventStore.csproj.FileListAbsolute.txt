@@ -1,0 +1,17 @@
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\Read.EventStore.deps.json
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\Read.EventStore.dll
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\Read.EventStore.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\CQRSDemo.Contracts.dll
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\Framework.Core.dll
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\Framework.Core.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\bin\Debug\net6.0\CQRSDemo.Contracts.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.AssemblyInfo.cs
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.csproj.CopyComplete
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.dll
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\refint\Read.EventStore.dll
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\Read.EventStore.pdb
+C:\Users\14\source\repos\CQRSDemo\Read.EventSourceDb\obj\Debug\net6.0\ref\Read.EventStore.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MOeZHmnvhpBUac56H7jwGAcin21uPCkumX54P6R3QeZVd+Zd6gLWkgvnHnh97P+FVxYHws99x0x8EYwJi7lOmA==",
+  "dgSpecHash": "D8iUuQxP2Ys6FDwx7geyr+IaMYuw7gXBV62Li4SATruVwCAt50OCjS6zyeo52rKHVykaWIgFuLc86IKiI6x5uQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\14\\source\\repos\\CQRSDemo\\Framework.Core\\Framework.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\14\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

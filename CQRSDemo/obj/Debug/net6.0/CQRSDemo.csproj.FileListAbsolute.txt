@@ -111,3 +111,12 @@ C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Framework.Messaging.
 C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Framework.Messaging.pdb
 C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Application.Services.dll
 C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Application.Services.pdb
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\EventStore.Client.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\EventStore.Client.Streams.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\14\source\repos\CQRSDemo\CQRSDemo\bin\Debug\net6.0\System.Linq.Async.dll
